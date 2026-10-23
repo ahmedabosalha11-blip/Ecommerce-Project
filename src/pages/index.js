@@ -1,0 +1,9 @@
+export {default as Home} from './home/Home';
+export {default as ProDetails} from './proDetails/ProDetails';
+export {default as Cart} from './cart/Cart';
+export {default as Fav} from './favourite/Fav';
+export {default as ConfirmPros} from './confirm/ConfirmPros';
+export {default as CatePage} from './category-page/CatePage';
+export {default as SearchPage} from './searchPage/SearchPage';
+export {default as About} from './about/About';
+export {default as Help} from './help/Help';
